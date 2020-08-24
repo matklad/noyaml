@@ -1,0 +1,10 @@
+[package]
+name = "noyaml"
+description = "I don't like YAML"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/matklad/noyaml"
+authors = ["Aleksey Kladov <aleksey.kladov@gmail.com>"]
+edition = "2018"
+
+exclude = [".github/", "bors.toml"]
